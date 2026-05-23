@@ -1,4 +1,4 @@
-# UFD-linux-Desltop-Widget
+# UFD-linux-Desktop-Widget
 A Python Tkinter Desktop assistant for Linux
     Readme
 
